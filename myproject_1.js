@@ -1,3 +1,5 @@
+/* This program when run randomly selects a message from three stored messages and prints it */
+
 
 const message1 = 'i love you right now';
 const message2 = 'i hate you right now';
