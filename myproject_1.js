@@ -8,7 +8,7 @@ const message3 = 'i am blown right now';
 const messages = [message1, message2, message3];
 
 function openMessage() {
-    var randomnumber = Math.floor(Math.random() * 9);
+    var randomnumber = Math.floor(Math.random() * 3);
     return messages[randomnumber];
 }
 
